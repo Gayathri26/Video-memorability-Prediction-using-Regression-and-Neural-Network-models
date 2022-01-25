@@ -1,0 +1,2 @@
+# Video-memorability-Prediction-using-Regression-and-Neural-Network-models
+ In general, memorability means the ability to  remember something and companies ponder on various factors,  which decide on the state of getting recognized in short term or  even after long term duration. In this project, the significance of  various pre-computed visual features that were already  provided by the MediaEval 2018 are explored.
